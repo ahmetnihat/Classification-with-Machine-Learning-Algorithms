@@ -12,3 +12,6 @@ Seçtiğim parametreleri ve varsayılan değerleri kullanan aynı algoritmaları
 
 ### classification_ml_3_select_encoding.ipynb :notebook:
 Öznitelik kodlama türünü değiştirdiğim ve öznitelik ekleyerek model başarısını ölçtüğüm not defteridir.
+
+### pokemon.csv 📊
+Kullanılan Pokemon verileridir.
